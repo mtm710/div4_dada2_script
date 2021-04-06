@@ -10,7 +10,7 @@ library(dada2); packageVersion("dada2")
 
 # set path
 
-path <- "~/data/Grubisic_et_al.data" #set path
+path <- "~/data/Grubisic_et_al.data" 
 list.files(path)
 
 # read in file names and obtain matched lists
